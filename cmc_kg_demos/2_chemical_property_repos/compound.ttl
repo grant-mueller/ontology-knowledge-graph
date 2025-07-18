@@ -1,0 +1,10 @@
+@prefix ns1: <http://example.org/chem/> .
+
+ns1:CHEMBL25 ns1:alogp "1.31" ;
+    ns1:hasSynonym "2-(Acetyloxy)benzoic acid",
+        "2-Acetoxybenzoic acid",
+        "50-78-2",
+        "ACETYLSALICYLIC ACID",
+        "aspirin" ;
+    ns1:molecular_weight "None" .
+

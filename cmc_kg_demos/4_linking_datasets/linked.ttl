@@ -1,0 +1,355 @@
+@prefix ns1: <http://example.org/fda/> .
+@prefix ns2: <http://example.org/sensor/> .
+@prefix ns3: <http://example.org/chem/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns3:CHEMBL25 ns3:alogp "1.31" ;
+    ns3:hasSynonym "2-(Acetyloxy)benzoic acid",
+        "2-Acetoxybenzoic acid",
+        "50-78-2",
+        "ACETYLSALICYLIC ACID",
+        "aspirin" ;
+    ns3:molecular_weight "None" .
+
+<http://example.org/fda/2_mcg/mL_Fentanyl_Citrate_and_0.16%_Bupivacaine_HCl_(Preservative_Free)_in_0.9%_Sodium_Chloride,__100_mL_in_150_mL_Baxter_Intravia_Bag,_Service_Code_2K8102,_Rx_Only,__Compounded_by_PharMEDium_Services,_LLC,_Memphis,_TN_36141,_NDC_61553-102-48> ns1:eventDate "20160727" ;
+    ns1:recallingFirm "Pharmedium Services, LLC" .
+
+<http://example.org/fda/AMBI_2CPM/15DM/5PEH,_Antihistamine,__Nasal_Decongestant,__Fruit_Candy_Flavor,_16_fl_oz._bottle,_OTC,_Manufactured_for:_AMBI_Pharmaceuticals,_Brooksville,_FL_34604,_NDC_66870-0228-16.> ns1:eventDate "20130612" ;
+    ns1:recallingFirm "TG United, Inc." .
+
+<http://example.org/fda/APAP_500_mg_tablet_(Acetaminophen_500_mg)_Bulk_Container,_ULTRAtab_Laboratories,_Inc.,_Highland,_NY_NDC_62959-210-00> ns1:eventDate "20220216" ;
+    ns1:recallingFirm "ULTRAtab Laboratories, Inc." .
+
+<http://example.org/fda/Alprazolam_C-IV,_1_mg,_packaged_in_a)_30_Tabs_per_bottle,_NDC_72189-213-30;_b)_60_Tabs_per_bottle,_NDC_72189-213-60;_Rx_only,_Packaged_and_Distributed_By:_Direct_Rx_Dawsonville,_GA_30534.> ns1:eventDate "20230412" ;
+    ns1:recallingFirm "Direct Rx" .
+
+<http://example.org/fda/Amantadine_HCl_Capsules,_USP,_100_mg,_Rx_Only,__50_Capsules_(5x10)_Unit_Dose_Cartons,_Manufactured_for:_AvKARE_Inc,_Pulaski,_TN_38478_---_NDC:_50268-0069-15> ns1:eventDate "20170809" ;
+    ns1:recallingFirm "Apace KY LLC" .
+
+<http://example.org/fda/Assured_Instant_Hand_Sanitizer_Aloe_&_Moisturizers_(Ethyl_Alcohol_70%_v/v)_8_fl_oz_/_237_mL_bottle,_Distributed_By:_Greenbrier_International,_Inc._500_Volvo_Parkway,_Chesapeake,_VA_23320._Made_in_Mexico.UPC_639277928610> ns1:eventDate "20201125" ;
+    ns1:recallingFirm "Albek De Mexico S.A. De C.V." .
+
+<http://example.org/fda/Benzocaine_20%,_Lidocaine_6%,_Tetracaine_4%_Cream_packaged_in_jars,_Rx_Only,_KRS_Global_Biotechnology,_791_Park_of_Commerce_Blvd,_Boca_Raton,_FL_33487.> ns1:eventDate "20180117" ;
+    ns1:recallingFirm "KRS Global Biotechnology, Inc" .
+
+<http://example.org/fda/CABTREO_(clindamycin_phosphate,_adapalene_and_benzoyl_peroxide)_Topical_Gel_1.2%/0.15%/3.1%,_Not_for_Oral,_Ophthalmic_or_Intravaginal_Use,_Rx_Only,_Net_Wt._50g,_Distributed_by_Bausch_Health_US,_LLC_Bridgewater,_NJ_08807_USA,_Manufactured_by:_Bausch_Health_Companies,_Inc._Laval_Quebec_H7L_448,_Canada,_NDC_0187-0006-25.> ns1:eventDate "20240228" ;
+    ns1:recallingFirm "MCKESSON CORPORATION" .
+
+<http://example.org/fda/CVS_Health_Redness_Relief_Lubricant_Redness_Reliever_Eye_Drops,_Sterile,_1_fl._oz.,_(30_mL),_Distributed_by:_CVS_Pharmacy_Inc.,_One_CVS_Drive,_Woonsocket,_RI_02895> ns1:eventDate "20191127" ;
+    ns1:recallingFirm "Altaire Pharmaceuticals, Inc." .
+
+<http://example.org/fda/Carisoprodol_Tablets,_USP_350_mg,_Rx_Only,_1000_tablets.__Dist_by:_West-ward_Pharmaceutical_Corp._Eatontown,_NJ_07724._Mfd_by:_Shasun_Chemicals_and_Drugs_Limited,_Unit_II,_R._S._Na_32,_33,_743_PIMS_Rd,_Periyakalepet,_Pondicherry._605014_INDIA._NDC_0143-9749-10.> ns1:eventDate "20131225" ;
+    ns1:recallingFirm "West-Ward Pharmaceutical Corp." .
+
+<http://example.org/fda/Desmopressin_Acetate_Tablets,_0.1_mg_Tablets,_Rx_Only,_Packed_in_30_Tablet_(3_x_10)_Cartons.__Packaged_and_Distributed_by:_American_Health_Packaging_Columbus,_Ohio_43217._NDC:_68084-606-21.> ns1:eventDate "20150722" ;
+    ns1:recallingFirm "American Health Packaging" .
+
+<http://example.org/fda/Dextroamphetamine_Saccharate,_Amphetamine_Aspartate,_Dextroamphetamine_Sulfate_and_Amphetamine_Sulfate_Tablets_(_Mixed_Amphetamine_Salts_Product),_5_mg,_100_count_bottles,_Rx_Only,_Teva_Pharmaceuticals_USA,_INC._North_Wales,_PA_19454,_NDC_0555-0971-02> ns1:eventDate "20200610" ;
+    ns1:recallingFirm "Teva Pharmaceuticals USA" .
+
+<http://example.org/fda/Dr._King's_Natural_Medicine_Homeopathic_Hydration,_2_fl._oz._(59_mL),_King_Bio,_Inc.,_3_Westside_Dr._Asheville,_NC_28806,_UPC_357955024224,_NDC_57955-0242-2> ns1:eventDate "20190320" ;
+    ns1:recallingFirm "King Bio Inc." .
+
+<http://example.org/fda/Edarbi_(azilsartan_medoxomil)_tablets_80_mg_30_Tablets_Rx_Only_NDC_60631-080-30_Manufactured_for:_arbor_Pharmaceuticals_Atlanta,_GA_30328> ns1:eventDate "20210602" ;
+    ns1:recallingFirm "Cardinal Health Inc." .
+
+<http://example.org/fda/Enoxaparin_Sodium_Injection,_USP,_150MG/ML_Single-Dose_Syringes_with_Automatic_Safety_Device,_For_Subcutaneous_Injection,_Ten_1_mL_Syringes_per_box,_Rx_Only,_Sandoz_Inc,_Princeton,_NJ_08540.__NDC:_0781-3299-69> ns1:eventDate "20240103" ;
+    ns1:recallingFirm "CARDINAL HEALTHCARE" .
+
+<http://example.org/fda/Excedrin_Migraine_(Acetaminophen_250_mg,_Aspirin_(NSAID)_250_mg_and_Caffeine_65_mg),_a)_2-count_tablets_packaged_in_pouches,_Distributed_by_Novartis_Consumer_Health,_Inc.,_Parsippany,_NJ,_NDC_0067_203_702_____Foreign_packaging:_b)_Excedrin_Migrana_(Acetaminophen_250_mg,_Aspirin_250_mg_and_65_mg_Caffeine)_2-ct_pouches.__The_foreign_packaging_do_not_have_NDC_numbers> ns1:eventDate "20130814" ;
+    ns1:recallingFirm "Novartis Consumer Health" .
+
+<http://example.org/fda/FAMOTIDINE_Tablet,_20_mg,_Over_The_Counter,_Distributed_by:_AidaPak_Service,_LLC,_NDC_16714036104> ns1:eventDate "20140122" ;
+    ns1:recallingFirm "Aidapak Services, LLC" .
+
+<http://example.org/fda/Glycopyrrolate_in_all_strengths,_all_doses,_and_all_packaging.> ns1:eventDate "20180228" ;
+    ns1:recallingFirm "Pharmedium Services, LLC" .
+
+<http://example.org/fda/HCG_1,100_IU/ml_Injection,_Multi-Dose_Vial,_Sterile,_Refrigerate_The_Compounding_Pharmacy_of_America,_Knoxville,_TN> ns1:eventDate "20150923" ;
+    ns1:recallingFirm "The Compounding Pharmacy of America" .
+
+<http://example.org/fda/HYDROMORPHONE_(a)_1MG/ML_IN_NS,__50ML,_75_ML,_100ML,_175ML(NDC_00703-0018-01_and_NDC_00409-2634-50)_;_(b)_5MG/ML_IN_NS_60ML,_100ML,_250ML;_pain,_Rx_only,_used_with_a_Curlin_pump_or_no_pump,_Sentara_Home_Infusion_Pharmacy_Services,_535_Independence_Pkwy,_Ste_300,_Chesapeake,_VA_23320,_NDC#_00409-2634-50> ns1:eventDate "20230222" ;
+    ns1:recallingFirm "Sentara Infusion Services" .
+
+<http://example.org/fda/Haloperidol_Decanoate_Injection_50mg/mL,_1mL_Single-Dose_Vial,_Rx_Only,_Manufactured_by:_Somerset_Therapeutics_Limited,_Kamataka_India,_Manufactured_for:_BluePoint_Laboratories_NDC_68001-580-41> ns1:eventDate "20250416" ;
+    ns1:recallingFirm "Somerset Therapeutics Private Limited" .
+
+<http://example.org/fda/Homatropine_Methylbromide_active_pharmaceutical_ingredient_packaged_in_varying_grams_or_kg_in_bags_or_drums,_Attix_Pharmaceuticals,_184_Front_Street_East,_Unit_801,_Toronto,_Ontario_M5A_4N3,_Canada> ns1:eventDate "20150429" ;
+    ns1:recallingFirm "Attix Pharmaceuticals" .
+
+<http://example.org/fda/Human_Chorionic_Gonadotropin_5,000_IU_vials,_Rx_only,_Pharm_D._Solutions_1304_South_Loop_West,_Houston,_TX_77054,_1-844-263-6846> ns1:eventDate "20190619" ;
+    ns1:recallingFirm "Pharm D Solutions, LLC" .
+
+<http://example.org/fda/Human_Chorionic_Gonadotropin_6,000_iu/Vial,_For_SC_Use_-Lyophilized,_Rx_Only,_KRS_Global_Biotechnology,_791_Park_of_Commerce_Blvd,_Boca_Raton,_FL_33487.> ns1:eventDate "20180117" ;
+    ns1:recallingFirm "KRS Global Biotechnology, Inc" .
+
+<http://example.org/fda/Ifosfamide_Injection_3g/60_mL,_Single_dose_vial,_Rx_only,_Sterile,_For_Intravenous_Use,_Refrigerate_at_2-8_degrees_celcius,_Distributed_by_Pfizer_Labs,_Division_of_Pfizer_Inc.,_New_York,_NY_10017,_NDC_0069-4496-22> ns1:eventDate "20131009" ;
+    ns1:recallingFirm "AmeriSource Bergen" .
+
+<http://example.org/fda/LOSARTAN_POTASSIUM_50_mg_TABLET_BULK__90_count_bottles_and_1000_count_bottles,_NDC_00591-3746-00> ns1:eventDate "20190717" ;
+    ns1:recallingFirm "Teva Pharmaceuticals USA" .
+
+<http://example.org/fda/Levothyroxine_and_Liothyronine_(Thyroid_Tablets,_USP),_1_grain_(60_mg),_100-count_bottles,_Rx_Only,_Manufactured_for:_Westminster_Pharmaceuticals,_LLC,_154_Downing_Street,_Unit_1_&_2,_Olive_Branch,_MS_38654,_NDC_69367-156-04.> ns1:eventDate "20180829" ;
+    ns1:recallingFirm "Westminster Pharmaceuticals LLC" .
+
+ns1:Ling_Zhi_capsules ns1:eventDate "20180214" ;
+    ns1:recallingFirm "Flawless Beauty LLC" .
+
+<http://example.org/fda/Little_Moon_Essentials,_Crampy_Belly_Rub_(Camphor_1.1%),_Packaged_as_a)_4_FL_OZ_(118ML)_glass_jar,_UPC_Code_6_73673_88260_2,_NDC_70722-260-04;_b)_2_FL_OZ_(59ML)_glass_jar,_UPC_Code_6_73673_88204_6,_NDC_70722-260-02,_Little_Moon_Essentials_LLC_Dania_Beach,_Fl_33004> ns1:eventDate "20240710" ;
+    ns1:recallingFirm "Little Moon Essentials LLC" .
+
+<http://example.org/fda/MEDROXYPROGESTERONE_ACETATE_300_MG/ML_Suspension,_10_mL_vial,_Rx_only,_Vital_Care_Compounder,_115_S._40th_Ave.,_Hattiesburg,_MS__39402> ns1:eventDate "20221109" ;
+    ns1:recallingFirm "Pharmacy Plus, Inc. dba Vital Care Compounder" .
+
+<http://example.org/fda/Methyl_Folate_Calcium_active_pharmaceutical_ingredient_packaged_in_varying_grams_or_kg_in_bags_or_drums,_Attix_Pharmaceuticals,_184_Front_Street_East,_Unit_801,_Toronto,_Ontario_M5A_4N3,_Canada> ns1:eventDate "20150429" ;
+    ns1:recallingFirm "Attix Pharmaceuticals" .
+
+<http://example.org/fda/Morphine_Sulfate_Extended-Release_Tablets,_60_mg,_100-count_bottles,_Rx_Only,_Manufactured_by:_Novel_Laboratories,_Inc._Somerset,_NJ_08873_Manufactured_for:_Lupin_Pharmaceuticals,_Inc._Baltimore,_MD_21202__NDC_43386-542-01> ns1:eventDate "20190501" ;
+    ns1:recallingFirm "LUPIN SOMERSET" .
+
+<http://example.org/fda/Nizatidine_Oral_Solution,_15_mg/mL_(75_mg/5mL)_USP_480_mL_bottles,_Rx_Only_Distributed_by:_Gemini_Laboratories,_LLC_Bridgewater,_NJ_08807_NDC_60846-301-15> ns1:eventDate "20200506" ;
+    ns1:recallingFirm "Amneal Pharmaceuticals of New York, LLC" .
+
+<http://example.org/fda/No_Drip_Nasal_Spray,_Oxymetazoline_HCl_0.05%_Nasal_Decongestant,_1_FL_Oz_(30_mL)_per_bottle,_Distributed_by_SUPERVALU_INC.,_Eden_Prairie,_MN_55344_USA._NDC_41163-703-10> ns1:eventDate "20220302" ;
+    ns1:recallingFirm "Perrigo Company PLC" .
+
+<http://example.org/fda/Nortrel_(norethindrone_and_ethinyl_estradiol_tablets_USP)_0.5/35,_packaged_in_cartons,_each_carton_contains_3_blister_cards,_each_card_contains_28_tablets,_Rx_only,_TEVA_PHARMACEUTICALS_USA,_INC.,_North_Wales,_PA_19454,_NDC_0555-9008-67> ns1:eventDate "20240221" ;
+    ns1:recallingFirm "Teva Pharmaceuticals USA, Inc" .
+
+<http://example.org/fda/PHENYLephrine_40_mg_in_0.9%_Sodium_Chloride_250_mL,_Rx_only,_SCA_Pharmaceuticals_8821_Knoedl_Ct_Little_Rock,_AR_72205_---_NDC#_70004-0812-40> ns1:eventDate "20170802" ;
+    ns1:recallingFirm "SCA Pharmaceuticals" .
+
+<http://example.org/fda/Phentermine_Hydrochloride_Capsules,_USP,_15_mg,_packaged_in_a)_100-count_bottle_(NDC_10702-0026-01;_UPC_3_10702_02601_8)_and_b)_1000-count_bottle_(NDC_10702-0026-10;_UPC_3_10702_02601_0);_Rx_only,_Mfd._by_KVK-TECH,_Inc.,_Newtown,_PA> ns1:eventDate "20150902" ;
+    ns1:recallingFirm "KVK-Tech, Inc." .
+
+<http://example.org/fda/Polyoxyl_Lauryl_Ether_(Polidocanol)_Injection,_LAURETH-9_(POLIDOCANOL)_5%_INJECTABLE,_For_IV_Use,_30_mL_Multi-dose_Vial,_Rx_only,_Axia_Pharmaceutical_1990_Westwood_Blvd._Ste_135,_Los_Angeles,_CA_90025;_NDC_71283-060-3> ns1:eventDate "20200311" ;
+    ns1:recallingFirm "Fusion IV Pharmaceuticals, Inc. dba Axia Pharmaceutical" .
+
+<http://example.org/fda/Progesterone_100_mg/mL_in_Corn_Oil_Injection,_2_mL_vials,_Rx_only,_Essential_Wellness_PHARMACY,_4625_N._University,_Peoria,_IL_61614.> ns1:eventDate "20151125" ;
+    ns1:recallingFirm "Kalman Health & Wellness, Inc. dba Essential Wellness Pharma" .
+
+<http://example.org/fda/Progesterone_50_mg/ml,_Clinical_Specialties_Compounding_Pharmacy,_318_Baston_Road,_Augusta,_GA_30907> ns1:eventDate "20130710" ;
+    ns1:recallingFirm "Clinical Specialties Compounding Pharmacy" .
+
+<http://example.org/fda/QP_COUGH_COLD_TABLET_16_CT_distributed_to_specific_Family_Dollar_Stores_04/30/2022_through_06/10/2022.> ns1:eventDate "20220831" ;
+    ns1:recallingFirm "Family Dollar Stores, Llc." .
+
+<http://example.org/fda/SkinGuard_24_All-Day_Hand_Sanitizer_8_oz._bottle_with_foam_pump,_Dist_by:_SG24_LLC,_Bolingbroke,_GA_31004__UPC_793573147125> ns1:eventDate "20200909" ;
+    ns1:recallingFirm "SG24 LLC" .
+
+<http://example.org/fda/Testosterone_20_mg,_Sterile_Pellet,_The_Compounding_Pharmacy_of_America,_Knoxville,_TN> ns1:eventDate "20150923" ;
+    ns1:recallingFirm "The Compounding Pharmacy of America" .
+
+<http://example.org/fda/Testosterone_40_mg_pellet_packaged_in_amber_vial,___Rx_only,_Partell_Specialty_Pharmacy,_5835_S._Eastern_Ave.___#101,_Las_Vegas,_NV_89119_(702)_791-3800> ns1:eventDate "20180425" ;
+    ns1:recallingFirm "Partell Specialty Pharmacy" .
+
+<http://example.org/fda/Tremfya_(guselkumab)_Injection,_100_mg/mL,_one_single-dose_prefilled_syringe_per_carton,_Rx_only,_Manufactured_by:_Janssen_Biotech,_Inc.,_Horsham,_PA__19044;_NDC_57894-640-01.> ns1:eventDate "20210407" ;
+    ns1:recallingFirm "Cardinal Health Inc." .
+
+<http://example.org/fda/Trimix_QM10_Papaverine_30_mg/Phentolamine_4_mg/Atropine_1_mg/PGE_150_mcg/mL_Injectable,_Pharm_D_Solutions,_Houston,_Texas_---_NDC_69699-1352-05> ns1:eventDate "20181107" ;
+    ns1:recallingFirm "Pharm D Solutions, LLC" .
+
+<http://example.org/fda/Unguentine_Original_Maximum_Strength_Pain_Relieving/Antiseptic_Ointment_(Camphor_3.0%,_Phenol_2.5%,_Tannic_Acid_2.2%,_Oxide_6.6%),_packaged_in_1_oz._(28.3g)_metal_tubes,_Distributed_by:_Oakhurst_Company_Levittown,_NY_11756> ns1:eventDate "20230315" ;
+    ns1:recallingFirm "Ecometics, Inc." .
+
+<http://example.org/fda/VIRACEPT_(R)_(nelfinavir_mesylate)_Tablets,_625_mg,_120-count_bottle,_Rx_only,_Manufactured_by:_Agouron_Pharmaceuticals,_Inc._A_Pfizer_Company,__Distributed_by:_ViV_Healthcare_Company,_Research_Triangle_Park,_NC_27709__NDC_63010-027-70> ns1:eventDate "20140723" ;
+    ns1:recallingFirm "Pfizer Inc." .
+
+<http://example.org/fda/Zarxio_300_mcg/0.5_mL_PFS_NDC_14_days_supply> ns1:eventDate "20180516" ;
+    ns1:recallingFirm "Kroger Specialty Pharmacy, Inc." .
+
+<http://example.org/fda/xigduo_XR_(dapgliflozin/metformin_HCl_extended-release)_tablets_10_mg/1000_mg_30_Tablets_Rx_only_NDC_0310-6280-30_Manufactured_for:_AstraZeneca_Pharmaceuticals_LP_Wilmington,_DE_19850__Manufactured_by:_Bristol-Myers_Squibb_Manufacturing_Company_Humacao,_Puerto_Rico_00791> ns1:eventDate "20210602" ;
+    ns1:recallingFirm "Cardinal Health Inc." .
+
+ns2:reading_2025-01-01T00-00-00 ns2:pH 7.057335e+00 ;
+    ns2:temperature 3.587485e+01 ;
+    ns2:timestamp "2025-01-01T00:00:00" .
+
+ns2:reading_2025-01-01T01-00-00 ns2:pH 6.907984e+00 ;
+    ns2:temperature 3.708298e+01 ;
+    ns2:timestamp "2025-01-01T01:00:00" .
+
+ns2:reading_2025-01-01T02-00-00 ns2:pH 6.975369e+00 ;
+    ns2:temperature 3.715228e+01 ;
+    ns2:timestamp "2025-01-01T02:00:00" .
+
+ns2:reading_2025-01-01T03-00-00 ns2:pH 6.963113e+00 ;
+    ns2:temperature 3.703228e+01 ;
+    ns2:timestamp "2025-01-01T03:00:00" .
+
+ns2:reading_2025-01-01T04-00-00 ns2:pH 6.992677e+00 ;
+    ns2:temperature 3.661351e+01 ;
+    ns2:timestamp "2025-01-01T04:00:00" .
+
+ns2:reading_2025-01-01T05-00-00 ns2:pH 6.957807e+00 ;
+    ns2:temperature 3.769037e+01 ;
+    ns2:timestamp "2025-01-01T05:00:00" .
+
+ns2:reading_2025-01-01T06-00-00 ns2:pH 6.924124e+00 ;
+    ns2:temperature 3.746914e+01 ;
+    ns2:timestamp "2025-01-01T06:00:00" .
+
+ns2:reading_2025-01-01T07-00-00 ns2:pH 7.081854e+00 ;
+    ns2:temperature 3.623173e+01 ;
+    ns2:timestamp "2025-01-01T07:00:00" .
+
+ns2:reading_2025-01-01T08-00-00 ns2:pH 7.150831e+00 ;
+    ns2:temperature 3.664319e+01 ;
+    ns2:timestamp "2025-01-01T08:00:00" .
+
+ns2:reading_2025-01-01T09-00-00 ns2:pH 7.140175e+00 ;
+    ns2:temperature 3.65426e+01 ;
+    ns2:timestamp "2025-01-01T09:00:00" .
+
+ns2:reading_2025-01-01T10-00-00 ns2:pH 7.182965e+00 ;
+    ns2:temperature 3.723728e+01 ;
+    ns2:timestamp "2025-01-01T10:00:00" .
+
+ns2:reading_2025-01-01T11-00-00 ns2:pH 6.810827e+00 ;
+    ns2:temperature 3.651007e+01 ;
+    ns2:timestamp "2025-01-01T11:00:00" .
+
+ns2:reading_2025-01-01T12-00-00 ns2:pH 7.124594e+00 ;
+    ns2:temperature 3.729207e+01 ;
+    ns2:timestamp "2025-01-01T12:00:00" .
+
+ns2:reading_2025-01-01T13-00-00 ns2:pH 7.047542e+00 ;
+    ns2:temperature 3.662056e+01 ;
+    ns2:timestamp "2025-01-01T13:00:00" .
+
+ns2:reading_2025-01-01T14-00-00 ns2:pH 6.929439e+00 ;
+    ns2:temperature 3.68727e+01 ;
+    ns2:timestamp "2025-01-01T14:00:00" .
+
+ns2:reading_2025-01-01T15-00-00 ns2:pH 7.006396e+00 ;
+    ns2:temperature 3.725547e+01 ;
+    ns2:timestamp "2025-01-01T15:00:00" .
+
+ns2:reading_2025-01-01T16-00-00 ns2:pH 7.049448e+00 ;
+    ns2:temperature 3.681596e+01 ;
+    ns2:timestamp "2025-01-01T16:00:00" .
+
+ns2:reading_2025-01-01T17-00-00 ns2:pH 7.048723e+00 ;
+    ns2:temperature 3.712042e+01 ;
+    ns2:timestamp "2025-01-01T17:00:00" .
+
+ns2:reading_2025-01-01T18-00-00 ns2:pH 7.008958e+00 ;
+    ns2:temperature 3.70707e+01 ;
+    ns2:timestamp "2025-01-01T18:00:00" .
+
+ns2:reading_2025-01-01T19-00-00 ns2:pH 7.075869e+00 ;
+    ns2:temperature 3.73697e+01 ;
+    ns2:timestamp "2025-01-01T19:00:00" .
+
+ns2:reading_2025-01-01T20-00-00 ns2:pH 6.902667e+00 ;
+    ns2:temperature 3.780965e+01 ;
+    ns2:timestamp "2025-01-01T20:00:00" .
+
+ns2:reading_2025-01-01T21-00-00 ns2:pH 6.948239e+00 ;
+    ns2:temperature 3.75047e+01 ;
+    ns2:timestamp "2025-01-01T21:00:00" .
+
+ns2:reading_2025-01-01T22-00-00 ns2:pH 6.954377e+00 ;
+    ns2:temperature 3.719683e+01 ;
+    ns2:timestamp "2025-01-01T22:00:00" .
+
+ns2:reading_2025-01-01T23-00-00 ns2:pH 6.998087e+00 ;
+    ns2:temperature 3.715919e+01 ;
+    ns2:timestamp "2025-01-01T23:00:00" .
+
+ns2:reading_2025-01-02T00-00-00 ns2:pH 7.049309e+00 ;
+    ns2:temperature 3.721806e+01 ;
+    ns2:timestamp "2025-01-02T00:00:00" .
+
+ns2:reading_2025-01-02T01-00-00 ns2:pH 6.891921e+00 ;
+    ns2:temperature 3.647637e+01 ;
+    ns2:timestamp "2025-01-02T01:00:00" .
+
+ns2:reading_2025-01-02T02-00-00 ns2:pH 7.024487e+00 ;
+    ns2:temperature 3.724351e+01 ;
+    ns2:timestamp "2025-01-02T02:00:00" .
+
+ns2:reading_2025-01-02T03-00-00 ns2:pH 7.277531e+00 ;
+    ns2:temperature 3.732447e+01 ;
+    ns2:timestamp "2025-01-02T03:00:00" .
+
+ns2:reading_2025-01-02T04-00-00 ns2:pH 7.043021e+00 ;
+    ns2:temperature 3.624309e+01 ;
+    ns2:timestamp "2025-01-02T04:00:00" .
+
+ns2:reading_2025-01-02T05-00-00 ns2:pH 6.927709e+00 ;
+    ns2:temperature 3.715921e+01 ;
+    ns2:timestamp "2025-01-02T05:00:00" .
+
+ns2:reading_2025-01-02T06-00-00 ns2:pH 7.021863e+00 ;
+    ns2:temperature 3.782816e+01 ;
+    ns2:timestamp "2025-01-02T06:00:00" .
+
+ns2:reading_2025-01-02T07-00-00 ns2:pH 6.937823e+00 ;
+    ns2:temperature 3.64693e+01 ;
+    ns2:timestamp "2025-01-02T07:00:00" .
+
+ns2:reading_2025-01-02T08-00-00 ns2:pH 7.085507e+00 ;
+    ns2:temperature 3.76109e+01 ;
+    ns2:timestamp "2025-01-02T08:00:00" .
+
+ns2:reading_2025-01-02T09-00-00 ns2:pH 6.7912e+00 ;
+    ns2:temperature 3.720612e+01 ;
+    ns2:timestamp "2025-01-02T09:00:00" .
+
+ns2:reading_2025-01-02T10-00-00 ns2:pH 6.873439e+00 ;
+    ns2:temperature 3.712527e+01 ;
+    ns2:timestamp "2025-01-02T10:00:00" .
+
+ns2:reading_2025-01-02T11-00-00 ns2:pH 6.929621e+00 ;
+    ns2:temperature 3.623358e+01 ;
+    ns2:timestamp "2025-01-02T11:00:00" .
+
+ns2:reading_2025-01-02T12-00-00 ns2:pH 7.107008e+00 ;
+    ns2:temperature 3.65526e+01 ;
+    ns2:timestamp "2025-01-02T12:00:00" .
+
+ns2:reading_2025-01-02T13-00-00 ns2:pH 7.136108e+00 ;
+    ns2:temperature 3.669437e+01 ;
+    ns2:timestamp "2025-01-02T13:00:00" .
+
+ns2:reading_2025-01-02T14-00-00 ns2:pH 7.000024e+00 ;
+    ns2:temperature 3.654517e+01 ;
+    ns2:timestamp "2025-01-02T14:00:00" .
+
+ns2:reading_2025-01-02T15-00-00 ns2:pH 6.916635e+00 ;
+    ns2:temperature 3.626125e+01 ;
+    ns2:timestamp "2025-01-02T15:00:00" .
+
+ns2:reading_2025-01-02T16-00-00 ns2:pH 7.142057e+00 ;
+    ns2:temperature 3.76744e+01 ;
+    ns2:timestamp "2025-01-02T16:00:00" .
+
+ns2:reading_2025-01-02T17-00-00 ns2:pH 7.036847e+00 ;
+    ns2:temperature 3.67887e+01 ;
+    ns2:timestamp "2025-01-02T17:00:00" .
+
+ns2:reading_2025-01-02T18-00-00 ns2:pH 6.908132e+00 ;
+    ns2:temperature 3.753102e+01 ;
+    ns2:timestamp "2025-01-02T18:00:00" .
+
+ns2:reading_2025-01-02T19-00-00 ns2:pH 6.940406e+00 ;
+    ns2:temperature 3.741735e+01 ;
+    ns2:timestamp "2025-01-02T19:00:00" .
+
+ns2:reading_2025-01-02T20-00-00 ns2:pH 6.805312e+00 ;
+    ns2:temperature 3.740466e+01 ;
+    ns2:timestamp "2025-01-02T20:00:00" .
+
+ns2:reading_2025-01-02T21-00-00 ns2:pH 6.813041e+00 ;
+    ns2:temperature 3.684459e+01 ;
+    ns2:timestamp "2025-01-02T21:00:00" .
+
+ns2:reading_2025-01-02T22-00-00 ns2:pH 6.978823e+00 ;
+    ns2:temperature 3.660571e+01 ;
+    ns2:timestamp "2025-01-02T22:00:00" .
+
+ns2:reading_2025-01-02T23-00-00 ns2:pH 7.062073e+00 ;
+    ns2:temperature 3.71225e+01 ;
+    ns2:timestamp "2025-01-02T23:00:00" .
+
