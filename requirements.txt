@@ -1,0 +1,8 @@
+jupyterlab
+pandas
+networkx
+matplotlib
+rdflib
+owlready2
+papermill
+ipykernelapache-airflow-providers-papermill
